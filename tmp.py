@@ -59,8 +59,7 @@ def software(name_product, text):
 
         #isEqual = input('Введіть')
 
-    for obj in soft:
-        if obj['len'] == x_max:
-            name_product = (obj['tag'])
-            print('Програмний продукт: %s', name_product)
+
     #software(name_product, text)
+
+
